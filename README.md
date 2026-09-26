@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## Setup
+
+'''text
+user.name=lincy
+user.email=ndungulincyg05@gmail.com
+
+
 <!--
 **ndungulincyg05-cloud/ndungulincyg05-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
