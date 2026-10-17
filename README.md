@@ -7,7 +7,7 @@ user.name=lincy
 user.email=ndungulincyg05@gmail.com
 
 [Team-collaboration]
-{https://github.com/victormose2005-alt/Team-collaboration.git}
+(https://github.com/victormose2005-alt/Team-collaboration.git)
 
 
 <!--
